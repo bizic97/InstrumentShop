@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|c:\\c#\\advanced c#\\instrument shop\\instrumentshop\\instrumentshop\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\instrumentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\instrumentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\instrumentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\instrumentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\sell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\welcomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\welcomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\welcomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\instrumentshop\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAB87DF-0699-4320-BDB6-70ACB9E3458C}|InstrumentShop\\InstrumentShop.csproj|solutionrelative:instrumentshop\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomePage.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\WelcomePage.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\WelcomePage.cs [Design]",
+              "RelativeToolTip": "InstrumentShop\\WelcomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:06:46.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sell.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Sell.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\Sell.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Sell.cs",
+              "RelativeToolTip": "InstrumentShop\\Sell.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAmwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:02:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sell.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Sell.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\Sell.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Sell.cs [Design]",
+              "RelativeToolTip": "InstrumentShop\\Sell.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:00:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WelcomePage.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\WelcomePage.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\WelcomePage.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\WelcomePage.cs",
+              "RelativeToolTip": "InstrumentShop\\WelcomePage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:06:56.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstrumentDetails.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\InstrumentDetails.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\InstrumentDetails.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\InstrumentDetails.cs [Design]",
+              "RelativeToolTip": "InstrumentShop\\InstrumentDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:48:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Splash.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\Splash.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Splash.cs [Design]",
+              "RelativeToolTip": "InstrumentShop\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:06:48.336Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Program.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\Program.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Program.cs",
+              "RelativeToolTip": "InstrumentShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:36:45.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstrumentDetails.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\InstrumentDetails.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\InstrumentDetails.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\InstrumentDetails.cs",
+              "RelativeToolTip": "InstrumentShop\\InstrumentDetails.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAADwv6MAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:04:02.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Splash.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\Splash.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Splash.cs",
+              "RelativeToolTip": "InstrumentShop\\Splash.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:02:48.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instrument.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Instrument.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\Instrument.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\Instrument.cs",
+              "RelativeToolTip": "InstrumentShop\\Instrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:01:53.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WelcomePage.Designer.cs",
+              "DocumentMoniker": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\WelcomePage.Designer.cs",
+              "RelativeDocumentMoniker": "InstrumentShop\\WelcomePage.Designer.cs",
+              "ToolTip": "C:\\C#\\Advanced C#\\Instrument shop\\InstrumentShop\\InstrumentShop\\WelcomePage.Designer.cs",
+              "RelativeToolTip": "InstrumentShop\\WelcomePage.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:18:21.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\bin\Debug\InstrumentShop.exe.config
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\bin\Debug\InstrumentShop.exe
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\bin\Debug\InstrumentShop.pdb
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.csproj.AssemblyReference.cache
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.InstrumentDetails.resources
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.Properties.Resources.resources
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.csproj.GenerateResource.cache
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.csproj.CoreCompileInputs.cache
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.exe
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.pdb
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.Sell.resources
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.Splash.resources
+C:\C#\Advanced C#\Instrument shop\InstrumentShop\InstrumentShop\obj\Debug\InstrumentShop.WelcomePage.resources
