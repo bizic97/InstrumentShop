@@ -1,2 +1,2 @@
 # 
-C# .net app for managing inventory in an instrument shop
+C# .net framework app for managing inventory in an instrument shop
